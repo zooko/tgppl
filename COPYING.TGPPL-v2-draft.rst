@@ -32,31 +32,12 @@ limited time.
    You have permission to delay the GPL-licensing of the source code
    of a derived work of The Work for up to 12 months from the time
    that the GPLv3 (section 5) would otherwise require you to
-   GPL-license the derived work.
+   GPL-license the derived work, *provided* that you apply this same
+   Exception to the license of your derived work upon GPL-licensing of
+   your derived work.
 
 2. No Weakening of The Work's Copyleft.
 
    The availability of this Exception does not imply any general
    presumption that third-party software is unaffected by the copyleft
    requirements of the license of The Work.
-
-
-.. Note: there is a subtlety that I care about it, and I would
-   appreciate it if you would help me make sure not to accidentally
-   obliterate it. Quoting myself from an old thread on the
-   license-discuss mailing list:
-
-   I'm willing to allow a line of works licensed under TGPPL to
-   eventually give rise to derived works licensed under GPL. However
-   there is a specific thing that I'm unwilling to allow: that if I
-   make a work available to you under TGPPL, that you take advantage
-   of the 12 month grace period for keeping your derived work
-   proprietary, and then deny the grace period option to derivors
-   immediately downstream from you.
-
-   I currently think it is possible to achieve both of the above in a
-   future version of TGPPL, by saying: this is my work, it is licensed
-   to you under TGPPL, the TGPPL stipulates that you can use my work
-   only if you either (a) license your derived work under GPL
-   *immediately* (just as standard GPL requires), or (b) license your
-   derived work under TGPPL within 12 months.
